@@ -1,0 +1,7 @@
+username="jonjenkinstest"
+password="098poi098poi"
+
+sendgrid
+test
+
+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
