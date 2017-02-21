@@ -1,0 +1,6 @@
+sendgrid
+
+username=jonjenkins
+password=ignorethis123
+
+this will be deleted and pw changed - testing only
