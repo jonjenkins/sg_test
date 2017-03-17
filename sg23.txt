@@ -1,4 +1,4 @@
-smtp://test123:test456@smtp.sendgrid.net
+smtp://test123:te$ssst456@smtp.sendgrid.net
 this
 is 
 a
